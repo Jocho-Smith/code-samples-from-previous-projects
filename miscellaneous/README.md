@@ -5,7 +5,7 @@
 `python -m http.server`
 - Distribute public keys to freshly enrolled machines
 - quickly spin up static web pages for debugging/development (also useful to check other browsers or mobile devices with touch)
-- easily extensible to test abi:
+- easily extensible to test API:
 
 ```python
 from http.server import BaseHTTPRequestHandler, HTTPServer
