@@ -11,6 +11,13 @@ A curated collection of personal Python code illustrating professional practices
 - Project Layouts
 - pre-commit
 
+### Testing & Development
+- pytest
+- Debugging
+- nox
+- VSCode Workflows
+- MVC
+
 
 ### Hardware Integration
 - Raspberry Pi: SPI communication and GPIO control
