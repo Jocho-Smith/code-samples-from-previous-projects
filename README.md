@@ -19,6 +19,10 @@ A curated collection of personal Python code illustrating professional practices
 - VSCode Workflows
 - MVC
 
+### Performance Optimization
+- CPython Extensions: Ising model simulation with C extensions
+- C++ Bindings: Integrating high-performance C++ code with Python
+
 
 ### Hardware Integration
 - Raspberry Pi: SPI communication and GPIO control
