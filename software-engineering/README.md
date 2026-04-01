@@ -13,6 +13,7 @@ Project Layouts
 - for data science I orient myself on https://cookiecutter-data-science.drivendata.org/
 - for backend stuff I keep it simple: `src/`, `tests/`, maybe `scripts/`
 - I try not to overengineer early, structure usually evolves with the project
+- It helps with the common "forgetting about applying software engineering best practices" when it comes to data science and machine learning
 
 Testing:
 - critical paths > 100% coverage
