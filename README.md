@@ -6,5 +6,8 @@ A curated collection of personal Python code illustrating professional practices
 ## Topics Covered
 
 
+### Hardware Integration
+- Raspberry Pi: SPI communication and GPIO control
+
 ### Miscellaneous
 - Bonus: Personal favorites
