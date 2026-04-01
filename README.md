@@ -5,6 +5,12 @@ A curated collection of personal Python code illustrating professional practices
 
 ## Topics Covered
 
+###### Software Engineering
+- SOLID Principles
+- Using `typing.Protocol`
+- Project Layouts
+- pre-commit
+
 
 ### Hardware Integration
 - Raspberry Pi: SPI communication and GPIO control
