@@ -5,7 +5,8 @@ A curated collection of personal Python code illustrating professional practices
 
 ## Topics Covered
 
-###### Software Engineering
+
+### Software Engineering
 - SOLID Principles
 - Using `typing.Protocol`
 - Project Layouts
