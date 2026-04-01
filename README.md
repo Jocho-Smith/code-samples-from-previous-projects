@@ -4,3 +4,7 @@ A curated collection of personal Python code illustrating professional practices
 
 
 ## Topics Covered
+
+
+### Miscellaneous
+- Bonus: Personal favorites
