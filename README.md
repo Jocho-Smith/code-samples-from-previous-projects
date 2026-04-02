@@ -23,6 +23,10 @@ A curated collection of personal Python code illustrating professional practices
 - CPython Extensions: Ising model simulation with C extensions
 - C++ Bindings: Integrating high-performance C++ code with Python
 
+### Infrastructure & DevOps
+- Inspiring ideas I have from the book "python for devops"
+- User management
+
 
 ### Hardware Integration
 - Raspberry Pi: SPI communication and GPIO control
