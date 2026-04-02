@@ -27,6 +27,8 @@ A curated collection of personal Python code illustrating professional practices
 - Inspiring ideas I have from the book "python for devops"
 - User management
 
+### Async Programming
+- Discord bots
 
 ### Hardware Integration
 - Raspberry Pi: SPI communication and GPIO control
